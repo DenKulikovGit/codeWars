@@ -18,4 +18,4 @@ function getMax2()
     return {name: 'Max Headroom'};
 }
 
-console.log(getMax1(), getMax2())
+console.log(getMax1(), getMax2());
