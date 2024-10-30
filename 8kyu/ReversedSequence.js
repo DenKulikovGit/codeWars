@@ -1,0 +1,15 @@
+// DESCRIPTION:
+// Build a function that returns an array of integers from n to 1 where n>0.
+// Example : n=5 --> [5,4,3,2,1]
+
+
+// SOLUTION:
+function reverseSeq(n) {
+    let z = []
+    for (n; n > 0; n--) {
+        z.push(n)
+    }
+    return z
+}
+
+console.log(reverseSeq(10))
