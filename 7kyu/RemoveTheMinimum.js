@@ -23,4 +23,3 @@ function removeSmallest(numbers) {
 
 console.log(removeSmallest(arr));
 console.log(removeSmallest(arr2));
-console.log(removeSmallest(arr3));
