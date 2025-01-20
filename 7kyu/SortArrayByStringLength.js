@@ -8,7 +8,7 @@
 
 // SOLUTION:
 const arr = ["Beg", "Life", "I", "To"]
-const arr2 = ["", "Moderately", "Brains", "Pizza"]
+const arr2 = ["", "Moderately", "Brains"]
 
 function sortByLength (array) {
     array.sort((a, b) => a.length - b.length)
